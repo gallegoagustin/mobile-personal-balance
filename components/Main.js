@@ -19,6 +19,7 @@ import { sortExpenses } from '../utils/stats';
  import {
    StyleSheet,
  } from 'react-native';
+import { AuthProvider } from '../utils/authProvider';
  
  const Main = (props) => {
 
