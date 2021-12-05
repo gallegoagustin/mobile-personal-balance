@@ -1,0 +1,8 @@
+const constants = {
+    ADD_INCOMES: 'ADD_INCOMES',
+    ADD_EXPENSES: 'ADD_EXPENSES',
+    ADD_INCOMES_TOTAL: 'ADD_INCOMES_TOTAL',
+    ADD_EXPENSES_TOTAL: 'ADD_EXPENSES_TOTAL'
+}
+
+export default constants
